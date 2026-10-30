@@ -1,2 +1,11 @@
-.env
 __pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+.coverage
+htmlcov/
+*.log
+.DS_Store

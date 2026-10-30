@@ -1,7 +1,6 @@
-flask
-flask-cors
-requests
-openai==0.28
-gunicorn
-python-dotenv
-python-whois
+Flask==3.1.3
+flask-cors==6.0.5
+gunicorn==26.2.0
+requests==2.34.2
+openai==2.54.0
+python-dotenv==1.2.4
